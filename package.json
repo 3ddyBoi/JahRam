@@ -1,0 +1,24 @@
+{
+  "name": "jahram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ddyBoi/JahRam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ddyBoi/JahRam/issues"
+  },
+  "homepage": "https://github.com/3ddyBoi/JahRam#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.20.0"
+  }
+}
